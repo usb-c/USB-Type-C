@@ -3,7 +3,7 @@ Docs for USB Type-C and USB Power Delivery
 
 ## USB Type-C specification
 
-PDF file: [USB Type-C 2.0](https://github.com/usb-c/USB-Type-C/blob/main/USB-C_Specification_Rev2.0/USB%20Type-C%20Spec%20R2.0%20-%20August%202019.pdf)  <br/>
+PDF file: [USB-C 2.0](https://github.com/usb-c/USB-Type-C/blob/main/USB-C_Specification_Rev2.0/USB%20Type-C%20Spec%20R2.0%20-%20August%202019.pdf)  <br/>
 
 ## USB Power Delivery specification
 
